@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.button-correct {
+  background-color: lightgreen;
+  color: white;
+}
+
+.button-incorrect {
+  background-color: red;
+  color: white;
+}
+

@@ -1,0 +1,128 @@
+[
+    {
+        "questionText": "What is the largest gold mine in Africa?",
+        "answerOptions": [
+            {
+                "answerText": "Kibali, Democratic Republic of the Congo",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Mponeng, South Africa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Obuasi, Ghana",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Loulo-Gounkoto, Mali",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionText": "Which African country is the largest producer of gold?",
+        "answerOptions": [
+            {
+                "answerText": "South Africa",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ghana",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Mali",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Sudan",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionText": "Which mine is considered one of the oldest mines in Ghana, reputed to be the richest gold mine in the world?",
+        "answerOptions": [
+            {
+                "answerText": "Ahafo Mine",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Obuasi Gold Mine",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Tarkwa Mine",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Iduapriem Mine",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionText": "In what year did Ghana become the leading producer of gold in Africa, surpassing South Africa?",
+        "answerOptions": [
+            {
+                "answerText": "2005",
+                "isCorrect": false
+            },
+            {
+                "answerText": "2018",
+                "isCorrect": true
+            },
+            {
+                "answerText": "2012",
+                "isCorrect": false
+            },
+            {
+                "answerText": "1999",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionText": "What is the name of the largest gold mining company in Ghana?",
+        "answerOptions": [
+            {
+                "answerText": "Gold Fields Ghana Limited",
+                "isCorrect": false
+            },
+            {
+                "answerText": "AngloGold Ashanti",
+                "isCorrect": true
+            },
+            {
+                "answerText": "Newmont Ghana",
+                "isCorrect": false
+            },
+            {
+                "answerText": "Ghana Bauxite Co. Ltd",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "questionText": "Ghana's gold mining industry is crucial for the country's economy. What percentage of Ghana's export revenues did gold account for in 2019?",
+        "answerOptions": [
+            {
+                "answerText": "48%",
+                "isCorrect": true
+            },
+            {
+                "answerText": "25%",
+                "isCorrect": false
+            },
+            {
+                "answerText": "60%",
+                "isCorrect": false
+            },
+            {
+                "answerText": "35%",
+                "isCorrect": false
+            }
+        ]
+    }
+]
